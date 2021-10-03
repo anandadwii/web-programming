@@ -1,0 +1,160 @@
+body{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+}
+.form-group{
+    margin-bottom: 15px;
+    width: 100%;
+}
+.col-md-12{
+    width: 100%;
+}
+.col-md-6{
+    width: 50%;
+}
+.col-md-4{
+    width: 33.333333%;
+}
+.col-lg-3{
+    width: 25%;
+}
+.col-lg-offset-3 {
+    margin-left: 25%;
+}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9{
+    float: left;
+}
+.row .row{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.row{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.form-control{
+    height: auto;
+    padding: 10px 15px;
+    font-size: 13px;
+    border-radius: 0;
+
+}
+.form-control{
+    display: block;
+    width: 100%;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+}
+
+
+footer {
+    background: #3a3a3a;
+    color: #fff;
+    font-size: 14px;
+    display: block;
+}
+footer .footer-top {
+    background: #4e4e4e;
+    padding: 50px 0px 20px;
+}
+footer .address p {
+    font-size: 16px;
+    color: #ddd;
+    font-style: italic;
+}
+footer .social-links a {
+    font-size: 17px;
+    display: inline-block;
+    background: #28251f;
+    color: #fff;
+    line-height: 1;
+    padding: 9px 0;
+    margin-right: 5px;
+    border-radius: 100%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.4s;
+}
+footer .social-links a:hover {
+    background: #8bc34a;
+}
+footer h4 {
+    font-size: 18px;
+    color: #cddc39;
+    padding-bottom: 12px;
+}
+footer .footer-menus {
+    margin-bottom: 30px;
+}
+footer .footer-menus ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+footer .footer-menus ul li {
+    margin-bottom: 10px;
+}
+footer .footer-menus ul i {
+    color: #ffffff;
+    font-size: 12px;
+    margin-right: 3px;
+}
+footer .footer-menus ul a {
+    color: #fff;
+    text-decoration: none;
+}
+footer .footer-menus ul a:hover {
+    color: #cddc39;
+}
+footer .newsletter form {
+    margin-top: 30px;
+    background: #3a3a3a;
+    padding: 6px 10px;
+    position: relative;
+    border-radius: 50px;
+    border: 1px solid #3a3a3a;
+}
+footer .newsletter form input[type="email"] {
+    border: 0;
+    padding: 5px;
+    background: #3a3a3a;
+    color: #fff;
+}
+footer .newsletter form input[type="email"]:focus {
+    outline: none;
+}
+footer .newsletter form input[type="submit"] {
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    bottom: -1px;
+    border: 0;
+    font-size: 16px;
+    background: #cddc39;
+    color: #000;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+}
+footer .newsletter form input[type="submit"]:hover {
+    background: #d5e440;
+}
+.footer-bottom {
+    padding: 20px 0px;
+}
+footer .footer-bottom a {
+    color: #cddc39;
+    text-decoration: none;
+}
